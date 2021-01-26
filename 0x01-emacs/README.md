@@ -1,0 +1,1 @@
+***This directory is about the projects concerning usage of the EMACS editor***
